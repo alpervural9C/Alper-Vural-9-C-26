@@ -1,5 +1,2 @@
 # profil
-Ad:Alper
-Soyad:Vural
-Sınıf:9/C
-Numara:26
+Alper Vural 9/C 26
